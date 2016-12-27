@@ -1,0 +1,80 @@
+.index-title{
+	background-color: #1e1b29;
+	width:100%;
+}
+.index-title .title{
+	display:block;
+	height:2rem;
+	width:12rem;
+	margin:0 auto;
+}
+.common-title{
+	padding:.2rem .8rem;
+	height:1rem;
+}
+.common-title div:nth-child(1){
+	float: left;
+	font-size: .3rem;
+}
+.common-title mark{
+	float: left;
+	color:#ffff00;
+	padding:0;
+	background-color: #1e1b29 !important;
+}
+
+.common-title div:nth-child(1) label{
+	float: left;
+	font-size: .3rem;
+}
+
+.common-title div:nth-child(2){
+	float:left;
+}
+
+.common-title .jc{
+	margin-left:.2rem;
+	font-size: .26rem;
+	color: #fff;
+}
+
+.common-title div:nth-child(3){
+	float: right;
+	display: flex;
+}
+.common-title div:nth-child(3) a{
+	font-size:.26rem;
+	margin:0rem .3rem;
+	color:#fff;
+	text-decoration:none;
+}
+.index-menu{
+	margin-left:.4rem;
+	background-color: #1e1b29;
+}
+.index-menu div{
+	float:left;
+	width:0.8rem;
+	height:0.8rem;
+	margin-right:.12rem;
+	font-size:0.15rem;
+	color:#fff;
+	text-align:center;
+	background-color:#00a99d;
+}
+.index-menu img{
+	display: block;
+	margin: 0 auto;
+	margin-top:.2rem;
+	margin-bottom:.2rem;
+}
+.index-menu .point{
+	width:.2rem;
+	height:.2rem;
+	background-color:#00a99d;
+	position:relative;
+	top:.6rem;
+}
+#notice{
+	background:url(../../img/test.png) no-repeat 4px 5px
+}

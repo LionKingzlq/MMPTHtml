@@ -1,0 +1,43 @@
+.common-title{
+	background-color: #1e1b29 !important;
+	padding:.2rem .8rem;
+	height:100px;
+	width:12rem;
+	margin:0 auto;
+}
+.common-title div:nth-child(1){
+	float: left;
+	font-size: .3rem;
+}
+.common-title mark{
+	float: left;
+	color:#ffff00;
+	padding:0;
+	background-color: #1e1b29 !important;
+}
+
+.common-title div:nth-child(1) label{
+	float: left;
+	font-size: .3rem;
+}
+
+.common-title div:nth-child(2){
+	float:left;
+}
+
+.common-title .jc{
+	margin-left:.2rem;
+	font-size: .26rem;
+	color: #fff;
+}
+
+.common-title div:nth-child(3){
+	float: right;
+	display: flex;
+}
+.common-title div:nth-child(3) a{
+	font-size:.26rem;
+	margin:0rem .3rem;
+	color:#fff;
+	text-decoration:none;
+}
